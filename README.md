@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# 教程-语言-OC
 
-You can use the [editor on GitHub](https://github.com/hackingangle/oc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 声明
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+这里发布的是我的学习笔记，目前从事后端php开发工作，由于业余时间想做一点项目，之前有过web前端的开发经验。
 
-### Markdown
+但是从来没有开发过客户端，所以：我会在这个教程中，我不假设学习者有任何的语言基础和开发背景，从0记录学习过程。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 为什么从OC开始？
 
-```markdown
-Syntax highlighted code block
+如果想在IOS开发有所建树，必须要了解所有历史的知识点，哪怕你后期使用react-native开发，但是基本的了解还是必要的。
 
-# Header 1
-## Header 2
-### Header 3
+## 链接
 
-- Bulleted
-- List
+[预留](https://www.baidu.com)
 
-1. Numbered
-2. List
+## 目录
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hackingangle/oc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [变量&常量&控制语句](./basic.md)
